@@ -3,7 +3,7 @@ title: "Enhanced Revocation Extensions for the Internet PKI"
 abbrev: "Enhanced Revocation Extensions"
 category: std
 
-docname: draft-pala-enhanced-revocation
+docname: draft-pala-enhanced-revocation-latest
 v: 3
 area: Security
 workgroup: LAMPS Working Group
