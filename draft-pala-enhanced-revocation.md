@@ -3,16 +3,16 @@ title: "Enhanced Revocation Extensions for the Internet PKI"
 abbrev: "Enhanced Revocation Extensions"
 category: std
 
-docname: draft-pala-enhanced-revocation-latest
+docname: draft-pala-enhanced-revocation
 v: 3
-# area: Security
-# workgroup: LAMPS Working Group
+area: Security
+workgroup: LAMPS Working Group
 keyword: Internet-Draft
 venue:
-#  group: LAMPS
-#  type: Working Group
-#  mail: spasm@ietf.org
-#  arch: https://datatracker.ietf.org/wg/lamps/documents/
+  group: LAMPS
+  type: Working Group
+  mail: spasm@ietf.org
+  arch: https://datatracker.ietf.org/wg/lamps/documents/
   github: "openca/draft-pala-enhanced-revocation"
   latest: "https://openca.github.io/draft-pala-enhanced-revocation/draft-pala-enhanced-revocation.html"
 
