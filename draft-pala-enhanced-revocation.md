@@ -5,16 +5,16 @@ category: std
 
 docname: draft-pala-enhanced-revocation-latest
 v: 3
-area: Security
-workgroup: LAMPS Working Group
+# area: Security
+# workgroup: LAMPS Working Group
 keyword: Internet-Draft
 venue:
-  group: LAMPS
-  type: Working Group
-  mail: spasm@ietf.org
-  arch: https://datatracker.ietf.org/wg/lamps/documents/
-  github: https://github.com/openca/draft-pala-enhanced-revocation/
-  latest: https://github.com/openca/draft-pala-enhanced-revocation/LATEST
+#  group: LAMPS
+#  type: Working Group
+#  mail: spasm@ietf.org
+#  arch: https://datatracker.ietf.org/wg/lamps/documents/
+  github: "openca/draft-pala-enhanced-revocation"
+  latest: "https://openca.github.io/draft-pala-enhanced-revocation/draft-pala-enhanced-revocation.html"
 
 author:
  -
